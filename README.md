@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, me chamo Guilherme Vidal 👋
 
-<!--
-**GuilhermeVidal25/GuilhermeVidal25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Web e Mobile | Softwares e MicroSaaS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 Sobre mim
+
+📍 Brasil  
+📚 Desenvolvedor Full-stack 
+🚀 Focado em evolução constante 
+
+Atualmente atuo no desenvolvimento de aplicações web e aplicativos mobile, com foco no ecossistema Apple (macOS e iOS).
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+### Linguagens
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,swift,postgresql" />
+
+### Frameworks & Backend
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel" />
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeVidal25&show_icons=true&theme=dark)
+
+---
+
+## 📫 Contato
+- GitHub: https://github.com/GuilhermeVidal25
+
