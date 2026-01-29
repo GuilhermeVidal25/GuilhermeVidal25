@@ -15,10 +15,10 @@ Atualmente atuo no desenvolvimento de aplicações web (full-stack) e aplicativo
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,php,swift,postgresql" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,swift,postgresql" />
 
 ### Frameworks & Backend
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,laravel" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
 
 ---
 
