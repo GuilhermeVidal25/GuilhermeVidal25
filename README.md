@@ -15,7 +15,7 @@ Atualmente atuo no desenvolvimento de aplicações web (full-stack) e aplicativo
 ## 🛠️ Tecnologias e Ferramentas
 
 ### Linguagens
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,swift,postgresql, mongodb" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,swift,postgresql,mongodb" />
 
 ### Frameworks & Backend
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" />
