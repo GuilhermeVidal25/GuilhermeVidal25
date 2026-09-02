@@ -8,7 +8,7 @@ Desenvolvedor Web e Mobile | Softwares e MicroSaaS
 
 📍 Brasil  
 
-Atualmente atuo no desenvolvimento de aplicações web (full-stack) e aplicativos mobile, com foco no ecossistema Apple (iOS).
+Atuo no desenvolvimento de aplicações Web, Mobile e Desktop sob medida e necessidade. 
 
 ---
 
